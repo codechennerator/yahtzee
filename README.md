@@ -1,3 +1,3 @@
 # yahtzee
 
-## Eclipse may be needed to run these files!
+## CS106A
